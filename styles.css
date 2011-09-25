@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	background: #FFF url(tempRainback.jpg) repeat-x center top;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+img#headerTEMP {
+	margin-top: 30px;
+}
